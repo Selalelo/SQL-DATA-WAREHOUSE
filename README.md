@@ -34,11 +34,11 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 
 ## 🌟 About Me
 
-Hi there! I’m **Moakamela Lolo**, a Data Engineer passionate about designing modern data solutions that drive actionable insights. I’m dedicated to making data engineering concepts accessible and impactful for everyone.
+Hi there! I’m **Selalelo Moakamelo**, a Data Engineer passionate about designing modern data solutions that drive actionable insights. I’m dedicated to making data engineering concepts accessible and impactful for everyone.
 
 Let's stay connected! Feel free to reach out and connect with me on these platforms:
   
-- [LinkedIn]((https://www.linkedin.com/in/selalelo-moakamelo-35b57719a)
+- [LinkedIn](https://www.linkedin.com/in/selalelo-moakamelo-35b57719a)
 
 ---
 
