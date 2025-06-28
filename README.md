@@ -31,7 +31,6 @@ This project demonstrates a comprehensive data warehouse analytics solution, fro
 
 This project is licensed under the **MIT License**. You are free to use, modify, and share this project with proper attribution.
 
----
 
 ## 🌟 About Me
 
@@ -39,7 +38,7 @@ Hi there! I’m **Moakamela Lolo**, a Data Engineer passionate about designing m
 
 Let's stay connected! Feel free to reach out and connect with me on these platforms:
   
-- [LinkedIn](#)  
+- [LinkedIn]((https://www.linkedin.com/in/selalelo-moakamelo-35b57719a)
 
 ---
 
