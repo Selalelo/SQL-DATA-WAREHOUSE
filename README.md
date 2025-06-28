@@ -27,5 +27,22 @@ This project demonstrates a comprehensive data warehouse analytics solution, fro
   Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ---
+## 🛡️ License
+
+This project is licensed under the **MIT License**. You are free to use, modify, and share this project with proper attribution.
+
+---
+
+## 🌟 About Me
+
+Hi there! I’m **Moakamela Lolo**, a Data Engineer passionate about designing modern data solutions that drive actionable insights. I’m dedicated to making data engineering concepts accessible and impactful for everyone.
+
+Let's stay connected! Feel free to reach out and connect with me on these platforms:
+  
+- [LinkedIn](#)  
+
+---
+
+*Thanks for exploring this project — happy data engineering!* 🚀
 
 
