@@ -16,7 +16,7 @@
     - Drops and recreates the DataWarehouse database to ensure a clean state
     - Creates separate schemas to organize data pipelines:
         * Bronze schema: for raw, ingested data
-        * Silver schema: for cleansed, transformed data
+        * Silver schema: for cleansed, standard data, normalized data, derived coloumns, data enrichment
         * Gold schema: for curated, analytics-ready data
     This layered approach follows best practices for data engineering.
 */
