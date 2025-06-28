@@ -3,7 +3,7 @@ Welcome to the **DATA WAREHOUSE PROJECT** repository! 🚀
 This project demonstrates a comprehensive data warehouse analytics solution, from building a data warehouse to generate actionable insights. Designed as a portfolio project, it highlights industry best practice in data engineering and analytics.
 ...
 
-🚀🚀 ## PROJECT REQUIREMENTS
+##🚀🚀  PROJECT REQUIREMENTS
 ### BUILDING THE DATA WAREHOUSE (DATA ENGINEERING)
 #### Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision making.
 
