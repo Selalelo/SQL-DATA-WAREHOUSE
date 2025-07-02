@@ -41,37 +41,21 @@ Below is the high-level data architecture for this project, showing the data flo
 data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
-│   ├── cust_info.csv
-│   ├── prd_info.csv
-│   ├── sales_details.csv
-│   └── placeholder
 │
 ├── docs/                               # Project documentation and architecture details
-│   ├── data_architecture.png           # Architecture diagram for the README
+│   ├── etl.drawio                      # Draw.io file shows all different techniquies and methods of ETL
+│   ├── data_architecture.drawio        # Draw.io file shows the project's architecture
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
-│   ├── data_integration.png            # Data integration diagram
-│   ├── data_layers.pdf                 # PDF explaining data layering concepts
-│   ├── naming_conventions.md           # Naming conventions for warehouse objects
-│   └── placeholder
+│   ├── data_flow.drawio                # Draw.io file for the data flow diagram
+│   ├── data_models.drawio              # Draw.io file for data models (star schema)
+│   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
-│   ├── Bronze layer/
-│   │   ├── bronze_layer_tables_creation.sql
-│   │   ├── bronze_layer_sql_procedure_for_bulk_insertion.sql
-│   │   └── placeholder
-│   │
-│   ├── Silver layer/
-│   │   ├── silver_layer_quality_checks.sql
-│   │   └── placeholder
-│   │
-│   ├── Gold layer/
-│   │   └── gold_layer_facts_dimensions_views.sql
-│   │
-│   ├── init_database.sql
-│   └── placeholder
+│   ├── bronze/                         # Scripts for extracting and loading raw data
+│   ├── silver/                         # Scripts for cleaning and transforming data
+│   ├── gold/                           # Scripts for creating analytical models
 │
-├── tests/                              # Test scripts and data quality checks
-│   └── silver_layer_quality_checks.sql
+├── tests/                              # Test scripts and quality files
 │
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
